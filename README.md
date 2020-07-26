@@ -1,4 +1,5 @@
 # synthetic-biology
 Molecular biology of all eukaryotes are almost the same.
-Everyday in your body there are roughly 10^11 cells that grow and divide
+
+Everyday in your body there are roughly 10**(11) cells that grow and divide
 
