@@ -24,6 +24,7 @@ vesicle, micelle
 ## lecture 4, Notes:
   A,C,T,G,U = adenine, cytosine, thymine, guanine, uracil <br/>
   T vs U, uracil is found in RNA and thymine is found in DNA <br/>
+  A and T are opposite to one another and G and C are opposite to one another <br />
   base + sugar = nucleoside + phosphate = nucleotide <br/>
   
 ### keywords:
