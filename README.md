@@ -8,7 +8,7 @@
   and metazoa represents multicellulat organisms <br />
   cyto prefers to cell <br />
   cells like ours have 5-10 million ribosomes in cytoplasm <br />
-  10<sup>16<sup/> cell division in human lifetime. <br/>
+  10<sup>16</sup> cell division in human lifetime. <br/>
 
 ### keywords: 
   mitochondria, golgi apparatus, cytoplasm, endoplasmic reticulum
