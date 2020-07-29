@@ -22,8 +22,8 @@
 vesicle, micelle
 
 ## lecture 4, Notes:
-  A,C,T,G,U = adenine, cytosine, thymine, guanine, uracil --
-  T vs U, uracil is found in RNA and thymine is found in DNA--
-  base + sugar = nucleoside + phosphate = nucleotide
+  A,C,T,G,U = adenine, cytosine, thymine, guanine, uracil <br/>
+  T vs U, uracil is found in RNA and thymine is found in DNA <br/>
+  base + sugar = nucleoside + phosphate = nucleotide <br/>
   
 ### keywords:
