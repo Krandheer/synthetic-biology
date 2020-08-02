@@ -33,3 +33,17 @@ vesicle, micelle
   
 ### keywords:
   replication , transcription and translation
+  
+## lecture 5, Notes:
+  RNA may have been doing the job of storing information in starting of life and gradually DNA took over the job <br/>
+  glycolysis, glyco prefers to sugar, lysis is breaking down of certain compunds. <br/>
+  
+
+### keywords: 
+  lipids
+  
+## lecture 6, Notes:
+  
+  
+  
+### keywords: 
