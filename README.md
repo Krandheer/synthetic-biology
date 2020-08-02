@@ -42,7 +42,18 @@ vesicle, micelle
 ### keywords: 
   lipids
   
-## lecture 6, Notes:
+## lecture 6, Notes: (prof eric lander)
+  genetics : study of organism - one component (mutant) <br/>
+  molecular biology realised the study of genes and proteins are two different side of the same coins <br/>
+  Gene: factor of inheritance controlling a trait <br/>
+  Alleles: alternative forms of gene <br/>
+  Phenotype : appearance <br/>
+  Genotype: pair of alleles carried by the individuals like RR, Rr, rr, <br/>
+  homozygotes: Genotype that has two alleles of same type like RR, rr <br/>
+  heterozyotes: individual having genotype of alternative type <br/>
+  word dominant and recessive prefers to phenotype not to alleles <br/>
+  Meiosis is the type of cell division that creates egg and sperm cells. <br/>
+  mitosis, the process of making new body cells <br/>
   
   
   
