@@ -55,6 +55,29 @@ vesicle, micelle
   Meiosis is the type of cell division that creates egg and sperm cells. <br/>
   mitosis, the process of making new body cells <br/>
   
-  
-  
+## lecture 7:
+when recombination rate is 0 then it means that genes are very close to each other. <br/>
+when recombination rate is 50% then the genes are on different chromosome or very far from each other <br/>
 ### keywords: 
+  genetic map, recombination rate <br/>
+  
+## lecture 8: 
+  yeast the proper eukaryote has 16 pair of chromosomes. <br/>
+  yeast that are able to grow on minimal media that are known as prototrophs, Auxotrophs are the yeast <br/>
+  that lost the ability to grow on minimal media. <br/>
+  arginine auxotrophs: organism that are unable to grow and make their own organism and hence needs the supply of arginine to grow <br/>
+  characterising mutant by the test of recessivity<br/>
+### kewywords: 
+  haploid and daploid <br/>
+  complementatation group in genes ? <br/>
+  
+## lecture 9:
+    brca-1 mutation, high risk of breast cancer <br/>
+    chromosome 17 bonafide autosome (what does it means)
+
+### keywords:
+  epistasis <br/>
+  sex-linked trait, <br/>
+  sex limited trait <br>
+  autosomal ?<br/>
+  
