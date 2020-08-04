@@ -53,11 +53,11 @@ vesicle, micelle
   heterozyotes: individual having genotype of alternative type <br/>
   word dominant and recessive prefers to phenotype not to alleles <br/>
   Meiosis is the type of cell division that creates egg and sperm cells. <br/>
-  mitosis, the process of making new body cells <br/>
+  mitosis, the process of making new body cells
   
 ## lecture 7:
 when recombination rate is 0 then it means that genes are very close to each other. <br/>
-when recombination rate is 50% then the genes are on different chromosome or very far from each other <br/>
+when recombination rate is 50% then the genes are on different chromosome or very far from each other 
 ### keywords: 
   genetic map, recombination rate <br/>
   
@@ -66,10 +66,10 @@ when recombination rate is 50% then the genes are on different chromosome or ver
   yeast that are able to grow on minimal media that are known as prototrophs, Auxotrophs are the yeast <br/>
   that lost the ability to grow on minimal media. <br/>
   arginine auxotrophs: organism that are unable to grow and make their own organism and hence needs the supply of arginine to grow <br/>
-  characterising mutant by the test of recessivity<br/>
+  characterising mutant by the test of recessivity
 ### kewywords: 
   haploid and daploid <br/>
-  complementatation group in genes ? <br/>
+  complementatation group in genes ? 
   
 ## lecture 9:
     brca-1 mutation, high risk of breast cancer <br/>
