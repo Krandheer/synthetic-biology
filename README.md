@@ -2,16 +2,16 @@
 
 # synthetic-biology
 ## lecture 1, Notes:
-    Molecular biology of all eukaryotes are almost the same.<br />
-    Everyday in your body there are roughly 10<sup>11 </sup> cells that grow and divide<br />
-    protozoa and metazoa, the suffix zoa prefer to animal as in zoo, protozoa represent single cell organism <br />
-    and metazoa represents multicellulat organisms <br />
-    cyto prefers to cell <br />
-    cells like ours have 5-10 million ribosomes in cytoplasm <br />
-    10<sup>16</sup> cell division in human lifetime. <br/>
+    Molecular biology of all eukaryotes are almost the same.
+    Everyday in your body there are roughly 10<sup>11 </sup> cells that grow and divide
+    protozoa and metazoa, the suffix zoa prefer to animal as in zoo, protozoa represent single cell organism 
+    and metazoa represents multicellulat organisms 
+    cyto prefers to cell 
+    cells like ours have 5-10 million ribosomes in cytoplasm 
+    10<sup>16</sup> cell division in human lifetime. 
 
 ### keywords: 
-  mitochondria, golgi apparatus, cytoplasm, endoplasmic reticulum
+mitochondria, golgi apparatus, cytoplasm, endoplasmic reticulum
 
 ## lecture 2, Notes:
     hydrogen bond is of 5kcal/mol roughly while covanlent bond has 80kcal/mol energy.<br/>
