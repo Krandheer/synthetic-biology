@@ -75,6 +75,7 @@ complementatation group in genes ? <br />
 ## lecture 9:
 brca-1 mutation, high risk of breast cancer <br/>
 chromosome 17 bonafide autosome (what does it means) <br />
+autosomal chromosome:chromosome that are not sex chromosomes means they do not define the sex of the offsprings <br/>
 
 ### keywords:
 epistasis <br/>
@@ -82,4 +83,29 @@ sex-linked trait, <br/>
 sex limited trait <br>
 autosomal ?<br/>
 cystic fibrosis <br />
+
+## lecture 10:
+  bacteriophage, phage means eaters <br/>
+  semi conservative replication:one strand is used as template to replicate another <br/>
+  
+### keywords: 
+  s-strain bacteria and R-strain bacteria <br/>
+  radioactive labelling
+  
+## lecture 11:
+  
+
+## she has her mother laugh 
+each mitochondria carries 37 genes of its own which encodes protein essential for its task <br/>
+mitochondria divides on their own making a copy of their own DNA without meiosis <br/>
+only mothers mitochondria becomes the mitochondria of their child <br/>
+what is nucleotide polymorphism ? <br/>
+Rh factor should be same between blood donor and receiver <br/>
+how does the new mutation arise in human DNA <br />
+### (key words):
+ gene drive ? <br />
+ transoceanic amnesia <br />
+ pedigree <br/>
+rece plasm <br/>
+ 
   
