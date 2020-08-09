@@ -73,9 +73,8 @@ haploid and daploid.
 complementatation group in genes ?  
 
 ## lecture 9:
-brca-1 mutation, high risk of breast cancer. 
-chromosome 17 bonafide autosome (what does it means). 
-brca-1 mutation, high risk of breast cancer. 
+brca-1 mutation, high risk of breast cancer.   
+chromosome 17 bonafide autosome (what does it means).  
 autosomal chromosome:chromosome that are not sex chromosomes means they do not define the sex of the offsprings. 
 
 ### keywords:
