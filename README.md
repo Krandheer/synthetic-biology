@@ -45,15 +45,15 @@ glycolysis, glyco prefers to sugar, lysis is breaking down of certain compunds.
 ## lecture 6, Notes: (prof eric lander)
   genetics : study of organism - one component (mutant)   
   molecular biology realised the study of genes and proteins are two different side of the same coins.   
-  Gene: factor of inheritance controlling a trait. 
-  Alleles: alternative forms of gene. 
-  Phenotype : appearance   
-  Genotype: pair of alleles carried by the individuals like RR, Rr, rr,  
-  homozygotes: Genotype that has two alleles of same type like RR, rr. 
-  heterozyotes: individual having genotype of alternative type. 
-  word dominant and recessive prefers to phenotype not to alleles. 
-  Meiosis is the type of cell division that creates egg and sperm cells.  
-  mitosis, the process of making new body cells. 
+  Gene: factor of inheritance controlling a trait.   
+  Alleles: alternative forms of gene.   
+  Phenotype : appearance.    
+  Genotype: pair of alleles carried by the individuals like RR, Rr, rr.   
+  homozygotes: Genotype that has two alleles of same type like RR, rr.   
+  heterozyotes: individual having genotype of alternative type.   
+  word dominant and recessive prefers to phenotype not to alleles.   
+  Meiosis is the type of cell division that creates egg and sperm cells.    
+  mitosis, the process of making new body cells.   
   
 ## lecture 7:
 when recombination rate is 0 then it means that genes are very close to each other.  
