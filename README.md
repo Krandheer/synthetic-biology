@@ -111,8 +111,8 @@ the trait in a population is due to genetic differences among people.
  transoceanic amnesia <br />
  pedigree <br/>
  ectoderm
+ 
  mesoderm
-rece plasm <br/>
 heretibality <br/>
 
  
