@@ -96,16 +96,17 @@ cystic fibrosis <br />
   
 
 ## she has her mother laugh 
-each mitochondria carries 37 genes of its own which encodes protein essential for its task <br/>
-mitochondria divides on their own making a copy of their own DNA without meiosis <br/>
-only mothers mitochondria becomes the mitochondria of their child <br/>
-what is nucleotide polymorphism ? <br/>
-Rh factor should be same between blood donor and receiver <br/>
-how does the new mutation arise in human DNA <br />
-what is heretability in a trait ? <br/>
-Heritability does not indicate what proportion of a trait is determined by genes and what proportion is determined by environment.<br/>
-So, a heritability of 0.7 does not mean that a trait is 70% caused by genetic factors; it means than 70% of the variability in <br/>
-the trait in a population is due to genetic differences among people.
+each mitochondria carries 37 genes of its own which encodes protein essential for its task   
+mitochondria divides on their own making a copy of their own DNA without meiosis  
+only mothers mitochondria becomes the mitochondria of their child  
+what is nucleotide polymorphism ?  
+Rh factor should be same between blood donor and receiver  
+how does the new mutation arise in human DNA. 
+what is heretability in a trait ?  
+Heritability does not indicate what proportion of a trait is determined by genes and what proportion is determined by environment.  
+So, a heritability of 0.7 does not mean that a trait is 70% caused by genetic factors; it means than 70% of the variability in. 
+the trait in a population is due to genetic differences among people.  
+
 ### (key words):
 gene drive ?   
 transoceanic amnesia   
