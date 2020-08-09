@@ -85,7 +85,7 @@ autosomal ?
 cystic fibrosis. 
 
 ## lecture 10:
-  bacteriophage, phage means eaters. 
+  bacteriophage, phage means eaters.   
   semi conservative replication:one strand is used as template to replicate another. 
   
 ### keywords: 
