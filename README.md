@@ -107,13 +107,12 @@ Heritability does not indicate what proportion of a trait is determined by genes
 So, a heritability of 0.7 does not mean that a trait is 70% caused by genetic factors; it means than 70% of the variability in <br/>
 the trait in a population is due to genetic differences among people.
 ### (key words):
- gene drive ? <br />
- transoceanic amnesia <br />
- pedigree <br/>
- ectoderm
- 
- mesoderm
-heretibality <br/>
+gene drive ?   
+transoceanic amnesia   
+pedigree   
+ectoderm mesoderm  
+heretibality  
+
 
  
   
