@@ -16,8 +16,8 @@ mitochondria, golgi apparatus, cytoplasm, endoplasmic reticulum
 ## lecture 2, Notes:
 hydrogen bond is of 5kcal/mol roughly while covanlent bond has 80kcal/mol energy.  
 glucose can be called as hexose.<br/>
-lactase is the enzyme to breakdown lactose (milk sugar), some people later in their life become. 
-lactose intolerant as their body shut down the production of lactase.   
+lactase is the enzyme to breakdown lactose (milk sugar).  
+some people later in their life become lactose intolerant as their body shut down the production of lactase.   
 
 ### keywords: 
 vesicle, micelle
