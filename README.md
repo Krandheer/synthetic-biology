@@ -44,7 +44,7 @@ glycolysis, glyco prefers to sugar, lysis is breaking down of certain compunds.
   
 ## lecture 6, Notes: (prof eric lander)
   genetics : study of organism - one component (mutant)   
-  molecular biology realised the study of genes and proteins are two different side of the same coins. 
+  molecular biology realised the study of genes and proteins are two different side of the same coins.   
   Gene: factor of inheritance controlling a trait. 
   Alleles: alternative forms of gene. 
   Phenotype : appearance   
