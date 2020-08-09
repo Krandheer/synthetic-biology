@@ -63,9 +63,9 @@ genetic map, recombination rate.
   
 ## lecture 8: 
 yeast the proper eukaryote has 16 pair of chromosomes.  
-yeast that are able to grow on minimal media that are known as prototrophs, Auxotrophs are the yeast. 
-that lost the ability to grow on minimal media.  
-arginine auxotrophs: organism that are unable to grow and make their own organism and hence needs the supply of arginine to grow   
+yeast that are able to grow on minimal media are known as prototrophs.  
+Auxotrophs are the yeast that lost the ability to grow on minimal media.    
+arginine auxotrophs: organism that are unable to grow and make their own organism and hence needs the supply of arginine to grow    
 characterising mutant by the test of recessivity. 
 
 ### kewywords: 
