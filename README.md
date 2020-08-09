@@ -40,7 +40,7 @@ glycolysis, glyco prefers to sugar, lysis is breaking down of certain compunds. 
 
 
 ### keywords: 
-     lipids
+  lipids
   
 ## lecture 6, Notes: (prof eric lander)
   genetics : study of organism - one component (mutant) <br/>
@@ -102,10 +102,18 @@ only mothers mitochondria becomes the mitochondria of their child <br/>
 what is nucleotide polymorphism ? <br/>
 Rh factor should be same between blood donor and receiver <br/>
 how does the new mutation arise in human DNA <br />
+what is heretability in a trait ? <br/>
+Heritability does not indicate what proportion of a trait is determined by genes and what proportion is determined by environment.<br/>
+So, a heritability of 0.7 does not mean that a trait is 70% caused by genetic factors; it means than 70% of the variability in <br/>
+the trait in a population is due to genetic differences among people.
 ### (key words):
  gene drive ? <br />
  transoceanic amnesia <br />
  pedigree <br/>
+ ectoderm
+ mesoderm
 rece plasm <br/>
+heretibality <br/>
+
  
   
