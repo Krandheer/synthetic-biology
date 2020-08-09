@@ -35,7 +35,7 @@ and so it require more energy to pull apart the two strand of double helix by br
   replication , transcription and translation
   
 ## lecture 5, Notes:
-RNA may have been doing the job of storing information in starting of life and gradually DNA took over the job. 
+RNA may have been doing the job of storing information in starting of life and gradually DNA took over the job.  
 glycolysis, glyco prefers to sugar, lysis is breaking down of certain compunds.  
 
 
