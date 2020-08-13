@@ -1,4 +1,4 @@
-[link of the first course](https://www.youtube.com/watch?time_continue=5&v=t5Y89b-3Zvc)
+[link of the first course](https://ocw.mit.edu/courses/biology/7-012-introduction-to-biology-fall-2004/video-lectures/)
 
 # synthetic-biology
 ## lecture 1, Notes:
