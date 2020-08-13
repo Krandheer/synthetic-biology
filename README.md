@@ -93,6 +93,8 @@ cystic fibrosis.
   radioactive labelling. 
   
 ## lecture 11:
+lecture on central dogma.  
+
   
 
 ## she has her mother laugh 
@@ -113,6 +115,10 @@ transoceanic amnesia
 pedigree   
 ectoderm mesoderm  
 heretibality  
+epigenetics.
+mosaics.  
+exome sequencing  
+
 
 
  
